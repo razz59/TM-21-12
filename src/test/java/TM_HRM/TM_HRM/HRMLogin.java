@@ -16,6 +16,7 @@ public class HRMLogin {
 		 
 		driver.manage().window().maximize();
 		driver.get("http://testingmasters.com/hrm/");
+		//test
 		
 	}
 }
